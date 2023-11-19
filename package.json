@@ -15,8 +15,7 @@
   },
   "scripts": {
     "dev": "some-dev-server-command",
-    "predeploy": "npm run build",
-    "deploy":"react-demo -d build",
+
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
